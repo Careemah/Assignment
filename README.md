@@ -1,1 +1,2 @@
-# Assignment
+#cwwTech
+JavaScript fundamentals
